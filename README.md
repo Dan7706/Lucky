@@ -1,2 +1,1 @@
 # Lucky
-# Lucky
